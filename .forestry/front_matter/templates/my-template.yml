@@ -8,3 +8,5 @@ fields:
   label: Here goes my text field
   description: Here goes the description of my template
   default: Here goest the default value.
+pages:
+- index.md
