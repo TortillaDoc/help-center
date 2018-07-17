@@ -13,6 +13,7 @@ fields:
   config:
     source:
       type: datafiles
+      file: _data-layouts-yml
   label: Layout
   description: Select the layout of the page.
 pages:
