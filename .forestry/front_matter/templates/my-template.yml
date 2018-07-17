@@ -8,6 +8,13 @@ fields:
   label: Title
   description: Enter the title of the page
   default: "<TITLE>"
+- type: select
+  name: layout
+  config:
+    source:
+      type: datafiles
+  label: Layout
+  description: Select the layout of the page.
 pages:
 - index.md
 - _posts/2018-07-17-site-online.md
