@@ -10,4 +10,4 @@ fields:
   default: Here goest the default value.
 pages:
 - index.md
-- _posts/site-online.md
+- _posts/2018-07-17-site-online.md
