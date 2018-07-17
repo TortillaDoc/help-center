@@ -10,3 +10,4 @@ fields:
   default: Here goest the default value.
 pages:
 - index.md
+- _posts/site-online.md
