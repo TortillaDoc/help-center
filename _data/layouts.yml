@@ -1,0 +1,11 @@
+fields:
+- type: field_group
+  name: layout
+  label: Layout
+  fields:
+  - type: text
+    name: start
+    label: Start page
+  - type: text
+    name: archive
+    label: Archive site
