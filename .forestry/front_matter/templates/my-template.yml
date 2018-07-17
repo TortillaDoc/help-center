@@ -4,9 +4,9 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  name: here_goes_my_text_field
-  label: Here goes my text field
-  description: Here goes the description of my template
+  name: title
+  label: Title
+  description: Enter the title of the page
   default: Here goest the default value.
 pages:
 - index.md
