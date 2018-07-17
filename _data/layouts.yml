@@ -1,6 +1,6 @@
 fields:
 - type: field_group
-  name: layout
+  name: layouts
   label: Layout
   fields:
   - type: text
