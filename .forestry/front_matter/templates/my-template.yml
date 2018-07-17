@@ -19,4 +19,5 @@ fields:
   default: index.md
 pages:
 - index.md
+- test.md
 - _posts/2018-07-17-site-online.md
