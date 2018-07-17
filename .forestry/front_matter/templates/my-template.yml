@@ -12,11 +12,11 @@ fields:
   name: layout
   config:
     source:
-      type: pages
+      type: datafiles
       file: _data-layouts-yml
   label: Layout
   description: Select the layout of the page.
-  default: index.md
+  default: fields
 pages:
 - index.md
 - test.md
