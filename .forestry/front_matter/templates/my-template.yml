@@ -16,6 +16,7 @@ fields:
       file: _data-layouts-yml
   label: Layout
   description: Select the layout of the page.
+  default: fields
 pages:
 - index.md
 - _posts/2018-07-17-site-online.md
