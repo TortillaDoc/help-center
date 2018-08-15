@@ -1,6 +1,6 @@
 ---
 title: Poppy's Help Desk
-layout: index.md
+layout: fields
 permalink: "/index/"
 here_goes_my_text_field: A value
 
